@@ -1,4 +1,3 @@
-import logging
 import re
 
 def read_file(path: str) -> list[str]:
